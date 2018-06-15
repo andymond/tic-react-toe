@@ -1,3 +1,3 @@
 Simple tic tac toe tutorial from [React](https://reactjs.org/tutorial/tutorial.html)  
 
-To run, clone the repo, run npm install, npm start & play away!
+To run, clone the repo, run npm install, npm start & play away on localhost:3000!
